@@ -1,6 +1,6 @@
 'use client';
 
-import runCode from '@/lib/run_code';
+import runCode from '../lib/run_code';
 
 export default function Demo() {
   return (
